@@ -11,4 +11,4 @@ Go to a cake to eat it.
 <img width="320" height="240" alt="2026-10-25_13-29-38 794_bot" src="https://github.com/user-attachments/assets/954121ba-cec9-40c8-b7fa-b003660481d0" />
 
 # NOTES
-DUMP YOUR DSP FIRMWARE FOR CAKE SFX!!! You can do this through rosalina menus own dsp dumper or the homebrew tool "DSP1".
+DUMP YOUR DSP FIRMWARE FOR CAKE SFX!!! (if you already did just ignore this) You can do this through rosalina menus own dsp dumper or the homebrew tool "DSP1". 
